@@ -1,0 +1,7 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,CP_EIA-6032-15_Kemet-U,1,22u,
+"C2, C4",0805,2,1u,
+"C3, C5",0603,2,100n,
+D1,D_SOD-123,1,MMSZ4683T1G,
+J1,DIP-14_W7.62mm,1,2x 7 Pin Header,
+U1,MSOP-8-1EP_3x3mm_P0.65mm_EP1.5x1.8mm,1,THS4631DGNR,
