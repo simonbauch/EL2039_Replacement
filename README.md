@@ -7,5 +7,6 @@ This replacement board passes Selftest and ACAL AC, more tests haven't been done
 
 ![alt text](https://github.com/simonbauch/EL2039_Replacement/blob/be6ace22c33da2b852e0f5186f138a2d6c313a11/EL2039.png?raw=true)
 
+Here in action:
 
-![alt text]https://github.com/simonbauch/EL2039_Replacement/blob/3b04d23976f9fa4a3cedbec417a250ee682494f6/EL_2039_PCB.jpg?raw=true)
+![alt text](https://github.com/simonbauch/EL2039_Replacement/blob/3b04d23976f9fa4a3cedbec417a250ee682494f6/EL_2039_PCB.jpg?raw=true)
